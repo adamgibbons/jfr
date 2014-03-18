@@ -1,12 +1,16 @@
 @import "../bower_components/bootstrap/less/bootstrap.less";
 @import "./bootstrap-variable-overrides.less"; 
 
+h1, h2, h3 {
+  font-family: 'Lato', sans-serif;
+}
+
 .navbar {
   h1 {
     font-size: 3.33em;
   }
   .byline {
-    margin-top: 2em;
+    margin-top: 3.33em;
   }
 }
 
@@ -21,3 +25,18 @@
   }
 }
 
+
+.footer {
+  margin: 2em 0;
+  padding: 1em 0;
+  .footer-nav {
+    display: inline-block;
+    margin-bottom: 1.33em;
+    a {
+      padding: 1em;
+      &:first-child {
+        padding-left: 0;
+      }
+    }
+  }
+}

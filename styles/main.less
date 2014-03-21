@@ -1,8 +1,23 @@
 @import "../bower_components/bootstrap/less/bootstrap.less";
 @import "./bootstrap-variable-overrides.less"; 
 
+body {
+  background-color: #289978;
+  color: white;
+}
+
 h1, h2, h3 {
   font-family: 'Lato', sans-serif;
+}
+
+.navbar-static-top {
+  background-color: #1C2D3A;
+  color: white;
+  margin-bottom: 0;
+  padding-bottom: 1em;
+  a {
+    color: white;
+  }
 }
 
 .navbar {
@@ -14,14 +29,23 @@ h1, h2, h3 {
   }
 }
 
-.jumbotron {
-  background-color: white;
-}
-
-.primary-nav {
-  padding-left: 0;
-  .active {
-    border: 1px solid;
+.primary-nav-wrapper {
+  background-color: #DB652A;
+  border: none;
+  margin-bottom: 4em;
+  .primary-nav {
+    padding-left: 0;
+    li {
+      a {
+        padding: 1em 1.33em;
+        &:hover {
+          background-color: lighten(#DB652A, 5%);
+          &.active {
+            background-color: transparent;
+          }
+        }
+      }
+    }
   }
 }
 

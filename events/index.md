@@ -3,6 +3,8 @@ layout: page
 title: "Events | John F. Ross"
 ---
 
+<h2>Upcoming Events</h2>
+
 <h4>SIU Distinguished Speaker Series <small>March 1, 7:30pm</small></h4>
 <p>Shryock Auditorium<br>
 Southern Illinois University<br>

@@ -334,7 +334,6 @@ title: "War On the Run | John F. Ross"
         <dt>May 1795</dt>
         <dd>Rogers dies in London</dd>
       </dl>
-
     </div>
 
     <div id="range-rules" class="tab-pane">
@@ -427,6 +426,10 @@ title: "War On the Run | John F. Ross"
       <li style="display:none;"><a href="#gallery" data-toggle="tab">Gallery</a></li>
       <li style="display:none;"><a href="#radio-television" data-toggle="tab">Radio and Television</a></li>
     </ul>
+
+    <div style="margin-top:2em;">
+      <img style="width:100%;" src="../images/war-on-the-run-cover.jpg">
+    </div>
   </div>
 
 </div>

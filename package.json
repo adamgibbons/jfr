@@ -1,0 +1,17 @@
+{
+  "name": "jfr",
+  "version": "0.0.0",
+  "description": "john-f-ross ===========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/adamgibbons/jfr.git"
+  },
+  "author": "Adam Gibbons",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "68550e4449db39ff0e0c8c8fe63d38dc4338aa85"
+}

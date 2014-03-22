@@ -2,8 +2,7 @@
 @import "./bootstrap-variable-overrides.less"; 
 
 body {
-  background-color: #289978;
-  color: white;
+  //background-color: #289978;
 }
 
 h1, h2, h3 {
@@ -11,16 +10,18 @@ h1, h2, h3 {
 }
 
 .navbar-static-top {
-  background-color: #1C2D3A;
-  color: white;
+  //background-color: #1C2D3A;
+  //color: white;
+  border: 1px solid;
   margin-bottom: 0;
   padding-bottom: 1em;
   a {
-    color: white;
+    //color: white;
   }
 }
 
 .navbar {
+  border: 1px solid;
   h1 {
     font-size: 3.33em;
   }
@@ -30,18 +31,20 @@ h1, h2, h3 {
 }
 
 .primary-nav-wrapper {
-  background-color: #DB652A;
-  border: none;
+  border: 1px solid;
+  border-top: none;
+  //background-color: #DB652A;
   margin-bottom: 4em;
+  border-radius: 0;
   .primary-nav {
     padding-left: 0;
     li {
       a {
         padding: 1em 1.33em;
         &:hover {
-          background-color: lighten(#DB652A, 5%);
+          //background-color: lighten(#DB652A, 5%);
           &.active {
-            background-color: transparent;
+            //background-color: transparent;
           }
         }
       }
@@ -49,8 +52,8 @@ h1, h2, h3 {
   }
 }
 
-
 .footer {
+  border: 1px solid;
   margin: 2em 0;
   padding: 1em 0;
   .footer-nav {

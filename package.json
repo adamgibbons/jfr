@@ -13,5 +13,12 @@
   "author": "Adam Gibbons",
   "license": "BSD",
   "readmeFilename": "README.md",
-  "gitHead": "68550e4449db39ff0e0c8c8fe63d38dc4338aa85"
+  "gitHead": "68550e4449db39ff0e0c8c8fe63d38dc4338aa85",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-less": "^0.11.0",
+    "less": "~1.7.0"
+  }
 }

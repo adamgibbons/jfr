@@ -5,6 +5,9 @@ module.exports = function(grunt) {
     },
     less: {
       dist: {
+        options: {
+          compress: true
+        },
         files: {
           "styles/main.css": "styles/main.less"
         }
@@ -16,4 +19,6 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-less');
 
   grunt.registerTask('default', ['clean', 'less']);
+
+  grunt.option('force', true);
 };

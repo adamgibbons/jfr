@@ -16,7 +16,7 @@ title: "John F. Ross | Author &amp; Journalist"
 
         <p>At the turn of the twentieth century two new technologies &ndash; the car and airplane &ndash; took the nation's imagination by storm as they burst, like comets, into American life. The brave souls that leaped into these dangerous contraptions and pushed them to unexplored extremes became new American heroes: the race car driver and the flying ace.</p>
 
-        <p>No individual did more to create and intensify these raw new roles than the tall, gangly Eddie Rickenbacker, who defied death over and over with such courage and pluck that a generation of Americans came to know his face better than the president's... <a href="/enduring-courage">Read more &raquo;</a></p>
+        <p>No individual did more to create and intensify these raw new roles than the tall, gangly Eddie Rickenbacker, who defied death over and over with such courage and pluck that a generation of Americans came to know his face better than the president's... <a href="./enduring-courage.html">Read more &raquo;</a></p>
       </div>
     </div>
   </div>

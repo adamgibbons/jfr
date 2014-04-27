@@ -89,11 +89,23 @@ title: "Enduring Courage | John F. Ross"
         <footer>Christina Olds, bestselling author of Fighter Pilot</footer>
       </blockquote>
     </div>
+
+    <div id="chapter1" class="tab-pane">
+      <h2>Audio Clips</h2>
+      <br>
+      <p>Excerpt from the first chapter of <em>Enduring Courage</em>, read by Edward Hermann.</p>
+      <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/145338028&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>
+      <hr>
+      <p>John F. Ross talks about Eddie Rickenbacker, WWI, and audiobooks, among other things.</p>
+      <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/145336945&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>
+    </div>
+
   </div>
   <div class="col-md-4 tab-content">
     <ul class="nav nav-pills nav-stacked">
       <li class="active"><a href="#synopsis" data-toggle="tab">Synopsis</a></li>
       <li><a href="#reviews" data-toggle="tab">Reviews</a></li>
+      <li><a href="#chapter1" data-toggle="tab">Listen to Chapter 1</a></li>
     </ul>
 
     <div style="margin-top:2em;">

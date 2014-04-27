@@ -3,43 +3,74 @@ layout: page
 title: "Events | John F. Ross"
 ---
 
-<h2>Upcoming Events</h2>
+<h2>Upcoming Events &amp; Appearances</h2>
+<br>
 
-<h4>SIU Distinguished Speaker Series <small>March 1, 7:30pm</small></h4>
-<p>Shryock Auditorium<br>
-Southern Illinois University<br>
-Carbondale, IL 62901<br>
-Admission is free. For more information, visit the website</p>
+<h4>Gaithersburg, MD <small> Saturday, May 17, 2014 at 11:15am</small></h4>
+<p>Moderated Discussion, "Great Stories from the Great Wars"<br>
+Gaithersburg Book Festival<br>
+James Michener Pavilion<br>
+City of Gaithersburg<br>
+506 S. Frederick Avenue<br>
+Gaithersburg, MD 20877<br>
+301-258-6350<br>
+www.gaithersburgbookfestival.org<br>
+Free and open to the public with a signing afterwards</p>
 
-<h4>2014 Celebrity Forum Speakers Series <small>March 1, 8pm</small></h4>
-<p>Flint Center for the Performing Arts<br>
-De Anza College Campus<br>
-21250 Stevens Creek Road<br>
-Cupertino, CA 95014<br>
-For more information or to purchase tickets, visit the website</p>
+<h4>Kansas City, MO <small>Thursday, May 22, 2014 at TBApm</small></h4>
+Reading and Signing<br>
+National Archives at Kansas City<br>
+400 West Pershing Road<br>
+Kansas City, MO 64108<br>
+816-268-8000<br>
+archives.gov/kansas-city</p>
 
-<h4>Main Street Cafe & Books Event  <small>March 1, 3pm</small></h4>
-<p>134 Main Street<br>
-Los Altos, CA 94022<br>
-For more information, call (650) 948-8040</p>
+<h4>Chicago, IL <small>Thursday, May 29, 2014 at TBApm</small></h4>
+Reading and Signing<br>
+Pritzker Military Museum &amp; Library<br>
+104 S. Michigan Ave.,<br>
+Chicago, IL 60603<br>
+312.374.9333<br>
+pritzkermilitary.org</p>
 
-<h4>2014 Celebrity Forum Speakers Series <small>March 1, 8pm</small></h4>
-<p>Flint Center for the Performing Arts<br>
-De Anza College Campus<br>
-21250 Stevens Creek Road<br>
-Cupertino, CA 95014<br>
-For more information or to purchase tickets, visit the website</p>
+<h4>Washington, DC <small>Sunday, June 1, 2014 at 1:00pm</small></h4>
+Signing<br>
+Smithsonian National Museum of Air &amp; Space<br>
+601 Independence Avenue, NW<br>
+Washington, DC 20560<br>
+202-633-2214<br>
+</p>
 
-<h4>2014 Celebrity Forum Speakers Series <small>March 1, 8pm</small></h4>
-<p>Flint Center for the Performing Arts<br>
-De Anza College Campus<br>
-21250 Stevens Creek Road<br>
-Cupertino, CA 95014<br>
-For more information or to purchase tickets, visit the website</p>
+<h4>Chantilly, VA <small>Saturday, June 7, 2014 at 1:00pm</small></h4>
+Signing<br>
+Smithsonian National Museum of Air &amp; Space <br>
+Steven F. Udvar-Hazy Center<br>
+14390 Air and Space Museum Parkway <br>
+Chantilly, VA 20151<br>
+703-572-4118</p>
 
-<h4>Ferguson Center for the Art’s Distinguished Speaker Series <small>March 1, 7:30pm</small></h4>
-<p>Ferguson Center for the Arts<br>
-1 Avenue of the Arts <br>
-Newport News, VA 23606<br>
-VIP tickets are $57; all other tickets are $47.<br>
-For more information or to purchase tickets, call (757) 594-8752, email tickets@cnu.edu or visit the website</p>
+<h4>Washington, DC <small>Saturday, June 28, 2014 at 1:00pm</small></h4>
+Reading<br>
+Politics &amp; Prose Bookstore<br>
+5015 Connecticut Ave. NW <br>
+Washington, DC 20016<br>
+202.364.1919<br>
+events@politics-prose.com</p>
+
+<h4>Seattle, WA <small>Saturday, July 26, 2014 at 1:00 P.M</small></h4>
+Moderated Panel, “Aces”<br>
+The Museum of Flight<br>
+9404 East Marginal Way S<br>
+Seattle, WA 98108<br>
+206-764-5720<br>
+www.museumofflight.org</p>
+
+<h4>Dayton, OH <small>Saturday, July 25, 2014 at TBA</small></h4>
+Reading and Signing<br>
+The League of World War I Aviation Historians<br>
+2014 League of WWI Aviation Historians Biennial Seminar<br>
+National Museum of the United States Air Force<br>
+1100 Spaatz Street<br>
+Wright-Patterson AFB OH 45433<br>
+(937) 255-3286<br>
+overthefront.com</p>

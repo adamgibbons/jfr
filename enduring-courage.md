@@ -91,21 +91,36 @@ title: "Enduring Courage | John F. Ross"
     </div>
 
     <div id="chapter1" class="tab-pane">
-      <h2>Audio Clips</h2>
+      <h2>Listen to Chapter 1</h2>
       <br>
       <p>Excerpt from the first chapter of <em><em>Enduring Courage</em></em>, read by Edward Hermann.</p>
       <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/145338028&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>
+
       <hr>
+
       <p>John F. Ross talks about Eddie Rickenbacker, WWI, and audiobooks, among other things.</p>
       <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/145336945&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>
     </div>
 
+    <div id="video" class="tab-pane">
+      <h2>The Early Days of Racing &amp; Flight</h2>
+      <br>
+      <br>
+      <iframe width="100%" height="455" src="//www.youtube.com/embed/7xgfQhXKU8E?rel=0" frameborder="0" allowfullscreen></iframe>
+      <hr>
+      <iframe width="100%" height="455" src="//www.youtube.com/embed/haKLzn4GQn8?rel=0" frameborder="0" allowfullscreen></iframe>
+      <hr>
+      <iframe width="100%" height="455" src="//www.youtube.com/embed/-WI5Y4hOJxU?rel=0" frameborder="0" allowfullscreen></iframe>
+    </div>
+
   </div>
+
   <div class="col-md-4 tab-content">
     <ul class="nav nav-pills nav-stacked">
       <li class="active"><a href="#synopsis" data-toggle="tab">Synopsis</a></li>
       <li><a href="#reviews" data-toggle="tab">Reviews</a></li>
       <li><a href="#chapter1" data-toggle="tab">Listen to Chapter 1</a></li>
+      <li><a href="#video" data-toggle="tab">Interview Shorts <em>(video)</em></a></li>
     </ul>
 
     <div style="margin-top:2em;">

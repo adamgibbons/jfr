@@ -17,7 +17,7 @@ Gaithersburg, MD 20877<br>
 www.gaithersburgbookfestival.org<br>
 Free and open to the public with a signing afterwards</p>
 
-<h4>Kansas City, MO <small>Thursday, May 22, 2014 at TBApm</small></h4>
+<h4>Kansas City, MO <small>Thursday, May 22, 2014. Time TBA.</small></h4>
 Reading and Signing<br>
 National Archives at Kansas City<br>
 400 West Pershing Road<br>
@@ -25,7 +25,7 @@ Kansas City, MO 64108<br>
 816-268-8000<br>
 archives.gov/kansas-city</p>
 
-<h4>Chicago, IL <small>Thursday, May 29, 2014 at TBApm</small></h4>
+<h4>Chicago, IL <small>Thursday, May 29, 2014. Time TBA.</small></h4>
 Reading and Signing<br>
 Pritzker Military Museum &amp; Library<br>
 104 S. Michigan Ave.,<br>
@@ -49,6 +49,14 @@ Steven F. Udvar-Hazy Center<br>
 Chantilly, VA 20151<br>
 703-572-4118</p>
 
+<h4>Washington, DC <small> Tuesday, June 10, 2014 at 7:00pm</small></h4>
+<p>Conversation with Dennis Drabelle, Washington Post<br>
+Hill Center at the Old Naval Hospital<br>
+921 Pennsylvania Avenue, SE<br>
+Washington, DC 20003<br>
+202-549-4172<br>
+Hillcenterdc.org</p>
+
 <h4>Washington, DC <small>Saturday, June 28, 2014 at 1:00pm</small></h4>
 Reading<br>
 Politics &amp; Prose Bookstore<br>
@@ -57,15 +65,7 @@ Washington, DC 20016<br>
 202.364.1919<br>
 events@politics-prose.com</p>
 
-<h4>Seattle, WA <small>Saturday, July 26, 2014 at 1:00 P.M</small></h4>
-Moderated Panel, “Aces”<br>
-The Museum of Flight<br>
-9404 East Marginal Way S<br>
-Seattle, WA 98108<br>
-206-764-5720<br>
-www.museumofflight.org</p>
-
-<h4>Dayton, OH <small>Saturday, July 25, 2014 at TBA</small></h4>
+<h4>Dayton, OH <small>Saturday, July 25, 2014. Time TBA.</small></h4>
 Reading and Signing<br>
 The League of World War I Aviation Historians<br>
 2014 League of WWI Aviation Historians Biennial Seminar<br>
@@ -74,3 +74,11 @@ National Museum of the United States Air Force<br>
 Wright-Patterson AFB OH 45433<br>
 (937) 255-3286<br>
 overthefront.com</p>
+
+<h4>Seattle, WA <small>Saturday, July 26, 2014 at 1:00pm</small></h4>
+Moderated Panel, “Aces”<br>
+The Museum of Flight<br>
+9404 East Marginal Way S<br>
+Seattle, WA 98108<br>
+206-764-5720<br>
+www.museumofflight.org</p>

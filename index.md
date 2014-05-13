@@ -18,7 +18,7 @@ title: "John F. Ross | Author &amp; Journalist"
             <p>
               <a href="http://www.barnesandnoble.com/w/enduring-courage-john-f-ross/1116932705?ean=9781250033772">Barnes &amp; Noble</a><br>
               <a href="http://www.amazon.com/Enduring-Courage-Pilot-Eddie-Rickenbacker/dp/1250033772">Amazon</a><br>
-              <a href="http://www.indiebound.org/book/9781250033772">Indiebound</a>
+              <a href="http://www.indiebound.org/book/9781250033772">Indiebound</a><br>
               <a href="https://itunes.apple.com/us/book/enduring-courage/id782941786?mt=11">iTunes</a>
             </p>
           </div>

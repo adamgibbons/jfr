@@ -3,7 +3,6 @@ layout: homepage
 title: "John F. Ross | Author &amp; Journalist"
 ---
 
-
 <div class="container">
   <div class="row">
 
@@ -30,8 +29,8 @@ title: "John F. Ross | Author &amp; Journalist"
 
           <p>At the turn of the twentieth century two new technologies &ndash; the car and airplane &ndash; took the nation's imagination by storm as they burst, like comets, into American life. The brave souls that leaped into these dangerous contraptions and pushed them to unexplored extremes became new American heroes: the race car driver and the flying ace.</p>
 
-          <p>No individual did more to create and intensify these raw new roles than the tall, gangly Eddie Rickenbacker, who defied death over and over with such courage and pluck that a generation of Americans came to know his face better than the president's...
-          <br><a href="./enduring-courage.html">Read more &raquo;</a></p>
+          <p>No individual did more to create and intensify these raw new roles than the tall, gangly Eddie Rickenbacker, who defied death over and over with such courage and pluck that a generation of Americans came to know his face better than the president's...</p>
+          <p><a href="./enduring-courage.html">Read more &raquo;</a></p>
         </div>
       </div>
 
@@ -50,6 +49,13 @@ title: "John F. Ross | Author &amp; Journalist"
 
     <!-- Right rail -->
     <div class="col-md-3">
+      <h3>Around the Web</h3>
+      <p><small>iTunes</small> <a href="https://itunes.apple.com/us/book/enduring-courage/id782941786?mt=11">Apple selects <em>Enduring Courage</em> as a top ten pick for non-fiction books in May.</a></p>
+
+      <p><small>Article</small> <a href="http://ricks.foreignpolicy.com/posts/2014/05/15/why_todays_readers_can_learn_from_a_new_book_about_wwi_hero_rickenbacker">"Why today's readers can learn from a new book about WWI hero Rickenbacker" by Thomas E. Ricks, ForeignPolicy.com</a></p>
+
+      <p><small>Video</small> <a href="http://www.c-span.org/video/?319417-3/panel-discussion-world-wars">John F. Ross participates in panel discussion on the World Wars at the 2014 Gaithersburg, MD Book Festival</a></p>
+
       <h3>Perils of Car Racing</h3>
 
       <iframe width="100%" height="210" src="//www.youtube.com/embed/haKLzn4GQn8?rel=0" frameborder="0" allowfullscreen></iframe>

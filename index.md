@@ -51,13 +51,12 @@ title: "John F. Ross | Author &amp; Journalist"
     <div class="col-md-3">
       <h3>Around the Web</h3>
       <p><small>iTunes</small> <a href="https://itunes.apple.com/us/book/enduring-courage/id782941786?mt=11">Apple selects <em>Enduring Courage</em> as a top ten pick for non-fiction books in May.</a></p>
-
       <p><small>Article</small> <a href="http://ricks.foreignpolicy.com/posts/2014/05/15/why_todays_readers_can_learn_from_a_new_book_about_wwi_hero_rickenbacker">"Why today's readers can learn from a new book about WWI hero Rickenbacker" by Thomas E. Ricks, ForeignPolicy.com</a></p>
-
       <p><small>Video</small> <a href="http://www.c-span.org/video/?319417-3/panel-discussion-world-wars">John F. Ross participates in panel discussion on the World Wars at the 2014 Gaithersburg, MD Book Festival</a></p>
 
-      <h3>Perils of Car Racing</h3>
+      <hr>
 
+      <h3>Perils of Car Racing</h3>
       <iframe width="100%" height="210" src="//www.youtube.com/embed/haKLzn4GQn8?rel=0" frameborder="0" allowfullscreen></iframe>
 
       <hr>
@@ -68,7 +67,6 @@ title: "John F. Ross | Author &amp; Journalist"
       <hr>
 
       <h3>Next Event</h3>
-
       <p>Thursday, May 29, 2014 at 6pm<br>
       Reading and Signing<br>
       Pritzker Military Museum &amp; Library<br>

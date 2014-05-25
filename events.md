@@ -6,26 +6,7 @@ title: "Events | John F. Ross"
 <h2>Upcoming Events &amp; Appearances</h2>
 <br>
 
-<h4>Gaithersburg, MD <small> Saturday, May 17, 2014 at 11:15am</small></h4>
-<p>Moderated Discussion, "Great Stories from the Great Wars"<br>
-Gaithersburg Book Festival<br>
-James Michener Pavilion<br>
-City of Gaithersburg<br>
-506 S. Frederick Avenue<br>
-Gaithersburg, MD 20877<br>
-301-258-6350<br>
-www.gaithersburgbookfestival.org<br>
-Free and open to the public with a signing afterwards</p>
-
-<h4>Kansas City, MO <small>Thursday, May 22, 2014. Time TBA.</small></h4>
-<p>Reading and Signing<br>
-National Archives at Kansas City<br>
-400 West Pershing Road<br>
-Kansas City, MO 64108<br>
-816-268-8000<br>
-archives.gov/kansas-city</p>
-
-<h4>Chicago, IL <small>Thursday, May 29, 2014. Time TBA.</small></h4>
+<h4>Chicago, IL <small>Thursday, May 29, 2014 at 6pm.</small></h4>
 <p>Reading and Signing<br>
 Pritzker Military Museum &amp; Library<br>
 104 S. Michigan Ave.,<br>

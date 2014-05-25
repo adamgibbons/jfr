@@ -63,11 +63,13 @@ title: "John F. Ross | Author &amp; Journalist"
 
       <h3>Next Event</h3>
 
-      <p>Saturday, May 17, 2014 at 11:15am<br>
-      Gaithersburg, MD<br>
-      Moderated Discussion, "Great Stories from the Great Wars"<br>
-      Gaithersburg Book Festival<br>
-      <a href="./events.html">Location and details &raquo;</a></p>
+      <p>Thursday, May 29, 2014 at 6pm<br>
+      Reading and Signing<br>
+      Pritzker Military Museum &amp; Library<br>
+      104 S. Michigan Ave.,<br>
+      Chicago, IL 60603<br>
+      312.374.9333<br>
+      <a href="http://pritzkermilitary.org">pritzkermilitary.org</a></p>
     </div>
 
   </div>

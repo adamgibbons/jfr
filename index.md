@@ -67,13 +67,13 @@ title: "John F. Ross | Author &amp; Journalist"
       <hr>
 
       <h3>Next Event</h3>
-      <p>Thursday, May 29, 2014 at 6pm<br>
-      Reading and Signing<br>
-      Pritzker Military Museum &amp; Library<br>
-      104 S. Michigan Ave.,<br>
-      Chicago, IL 60603<br>
-      312.374.9333<br>
-      <a href="http://pritzkermilitary.org">pritzkermilitary.org</a></p>
+      <p>Tuesday, June 10, 2014 at 7pm<br>
+      Conversation with Dennis Drabelle, <em>Washington Post</em><br>
+      Hill Center at the Old Naval Hospital<br>
+      921 Pennsylvania Avenue, SE<br>
+      Washington, DC 20003<br>
+      202-549-4172<br>
+      <a href="http://hillcenterdc.org" target="_blank">HillCenterdDC.org<a></p>
     </div>
 
   </div>

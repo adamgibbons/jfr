@@ -35,6 +35,9 @@ title: "Enduring Courage | John F. Ross"
 
       <br>
 
+      <!-- TODO: add this review once jfr delivers pullout -->
+      <!-- http://online.wsj.com/articles/book-review-enduring-courage-by-john-f-ross-1401484168?KEYWORDS=enduring+courage -->
+
       <blockquote>
         <p>Entertaining... Ross peppers the text with quotes that place readers right alongside the ace through nearly every moment of his life. Obviously this is exciting material to work with &mdash; after all, Rickenbacker was a man who drove in the first Indy 500 and dueled with the Red Baron's flying circus &mdash; but Ross is never fawning in this thoroughly enjoyable and downright rollicking read.</p>
         <footer>Booklist, starred review</footer>

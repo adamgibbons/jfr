@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: "John F. Ross | Author &amp; Journalist"
+title: "John F. Ross | Author and Historical Journalist"
 ---
 
 <div class="container">

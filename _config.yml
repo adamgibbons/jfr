@@ -2,19 +2,14 @@
 
 source:      .
 destination: ./_site
-plugins:     ./_plugins
-layouts:     ./_layouts
+layouts_dir:     ./_layouts
 
 future:      true
 show_drafts: nil
 limit_posts: 0
 highlighter: pygments
 
-relative_permalinks: true
-
 permalink:     date
-paginate_path: 'page:num'
-paginate:      nil
 
 markdown:      kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md

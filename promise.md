@@ -128,14 +128,14 @@ title: "Promise of the Grand Canyon | John F. Ross"
   </div>
 
   <div class="col-md-4 tab-content">
-    <ul class="nav nav-pills nav-stacked">
+    <!-- <ul class="nav nav-pills nav-stacked">
       <li class="active"><a href="#synopsis" data-toggle="tab">Synopsis</a></li>
       <li><a href="#reviews" data-toggle="tab">Reviews</a></li>
       <li><a href="#chapter1" data-toggle="tab">Listen to Chapter 1</a></li>
       <li><a href="#video" data-toggle="tab">Interview Shorts <em>(video)</em></a></li>
-    </ul>
+    </ul> -->
 
-    <div style="margin-top:2em;">
+    <div>
       <img style="width:100%;" src="../images/promise-of-grand-canyon.jpg">
     </div>
   </div>

@@ -28,7 +28,7 @@ title: "John F. Ross | Author and Historical Journalist"
 
         <div class="col-md-9">
           <h1>The Promise of the Grand Canyon</h1>
-          <h3>John Wesley Powell's Perilous Journey and His Vision for the American West Hardcover</h3>
+          <h3>John Wesley Powell's Perilous Journey and His Vision for the American West</h3>
           <h5>Viking: July 3, 2018.</h5>
 
           <br>

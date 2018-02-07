@@ -11,18 +11,18 @@ title: "Promise of the Grand Canyon | John F. Ross"
         The Promise of the Grand Canyon
       </h1>
       <h2 style="font-size:1.33em">
-        John Wesley Powell's Perilous Journey and His Vision for the American West Hardcover
+        John Wesley Powell's Perilous Journey and His Vision for the American West
       </h2>
       <p>
         Viking: July 3, 2018.
       </p>
 
       <br>
-
+<!-- 
       <blockquote>
         <p>To say <em>Enduring Courage</em> is the best book ever would be an understatement.</p>
         <footer>Thomas Fleming, <em>New York Times</em> bestselling author of <em>Conquerors of the Sky</em></footer>
-      </blockquote>
+      </blockquote> -->
 
       <p>
         A timely, thrilling account of a man who, as an explorer, dared to lead the first succesful expedition down the Colorado through the Grand Canyon--and, as an American visionary, waged a bitterly-contested campaign for environmental sustainability in the American West.

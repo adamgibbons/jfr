@@ -8,29 +8,46 @@ title: "John F. Ross | Author and Historical Journalist"
 
     <!-- Main column -->
     <div class="col-md-9">
-
       <div class="row">
         <div class="col-md-3">
-          <img src="images/enduring-courage-cover.jpg" style="width:100%">
+          <img src="images/promise-of-grand-canyon.jpg" style="width:100%" />
+
           <div>
-            <h4>Buy the book</h4>
-            <p>
-              <a href="http://www.barnesandnoble.com/w/enduring-courage-john-f-ross/1116932705?ean=9781250033772">Barnes &amp; Noble</a><br>
-              <a href="http://www.amazon.com/Enduring-Courage-Pilot-Eddie-Rickenbacker/dp/1250033772">Amazon</a><br>
-              <a href="http://www.indiebound.org/book/9781250033772">Indiebound</a><br>
-              <a href="https://itunes.apple.com/us/book/enduring-courage/id782941786?mt=11">iTunes</a>
-            </p>
+            <h4>
+              <a href="https://www.amazon.com/Promise-Grand-Canyon-Perilous-American/dp/0525429875/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1516142856&sr=1-1">
+                Buy the book
+              </a>
+            </h4>
+
+              <!-- <a href="http://www.barnesandnoble.com/w/enduring-courage-john-f-ross/1116932705?ean=9781250033772">Barnes &amp; Noble</a>
+              <br /> -->
+              <!-- <a href="https://www.amazon.com/Promise-Grand-Canyon-Perilous-American/dp/0525429875/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1516142856&sr=1-1">Amazon</a> -->
+              <!-- <br />
+              <a href="http://www.indiebound.org/book/9781250033772">Indiebound</a>
+              <br />
+              <a href="https://itunes.apple.com/us/book/enduring-courage/id782941786?mt=11">iTunes</a> -->
           </div>
         </div>
+
         <div class="col-md-9">
-          <h1>Enduring Courage</h1>
-          <h2>Ace Pilot Eddie Rickenbacker and the Dawn of the Age of Speed</h2>
-          <p>St. Martin's Press: May 13, 2014.</p>
+          <h1>The Promise of the Grand Canyon</h1>
+          <h3>John Wesley Powell's Perilous Journey and His Vision for the American West</h3>
+          <h5>Viking: July 3, 2018.</h5>
 
-          <p>At the turn of the twentieth century two new technologies &ndash; the car and airplane &ndash; took the nation's imagination by storm as they burst, like comets, into American life. The brave souls that leaped into these dangerous contraptions and pushed them to unexplored extremes became new American heroes: the race car driver and the flying ace.</p>
+          <br>
 
-          <p>No individual did more to create and intensify these raw new roles than the tall, gangly Eddie Rickenbacker, who defied death over and over with such courage and pluck that a generation of Americans came to know his face better than the president's...</p>
-          <p><a href="./enduring-courage.html">Read more &raquo;</a></p>
+          <p>
+            A timely, thrilling account of a man who, as an explorer, dared to lead the first succesful expedition down the Colorado through the Grand Canyon &mdash; and, as an American visionary, waged a bitterly-contested campaign for environmental sustainability in the American West.
+          </p>
+
+          <p>
+            When John Wesley Powell became the first person to navigate the entire Colorado River, through the Grand Canyon, he completed what Lewis and Clark had begun nearly 70 years earlier &mdash; the final exploration of continental America. The son of an abolitionist preacher, a Civil War hero (who lost an arm at Shiloh), and a passionate naturalist and geologist, in 1869 Powell tackled the vast and dangerous gorge carved by the Colorado River and known today (thanks to Powell) as the Grand Canyon.
+          </p>
+
+
+          <p>
+            With <em>The Promise of the Grand Canyon</em>, John Ross recreates Powell's expedition in all its glory and terror, but his second (unheralded) career as a scientist, bureaucrat, and land-management pioneer concerns us today. Powell was the first to ask: how should the development of the west be shaped? How much could the land support? What was the role of the government and private industry in all of this? He began a national conversation about sustainable development when most everyone else still looked upon land as an inexhaustible resource. Though he supported irrigation and dams, his prescient warnings forecast the 1930s dustbowl and the growing water scarcities of today. Practical, yet visionary, Powell didn't have all the answers, but was first to ask the right questions.
+          </p>
         </div>
       </div>
 
@@ -41,10 +58,12 @@ title: "John F. Ross | Author and Historical Journalist"
           <img src="images/john-f-ross-headshot.jpg" style="width: 100%;">
         </div>
         <div class="col-md-8">
-          <p>John F. Ross's most recent book is <em>Enduring Courage: Ace Pilot Eddie Rickenbacker and the Dawn of the Age of Speed</em>, a narrative non-fiction book for St. Martin's Press. The Wall Street Journal called his previous book, <em>War on the Run: The Epic Story of Robert Rogers and the Conquest of America's First Frontier</em> (Random House, 2009), "a lively, evocative and moving biography." Formerly the editor of <em>American Heritage</em> and <em>Invention &amp; Technology</em> magazines, he is the recipient of the 2011 Fort Ticonderoga Award for Contributions to American History. Before that he was on the Board of Editors of <em>Smithsonian</em> magazine, during which he wrote four cover stories.</p>
+          <p>
+            John Ross is a former editor of <em>American Heritage</em> and an adventure writer with extensive whitewater experience. His previous books are 
+            <em>Enduring Courage: Ace Pilot Eddie Rickenbacker and the Dawn of the Age of Speed</em> and <em>War on the Run: The Epic Story of Robert Rogers and the Conquest of America's First Frontier</em>, which won the Fort Ticonderoga Award for Contributions to American History.
+          </p>
         </div>
       </div>
-
     </div>
 
     <!-- Right rail -->
@@ -63,19 +82,6 @@ title: "John F. Ross | Author and Historical Journalist"
 
       <h3>Audio Excerpt</h3>
       <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/145338028&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>
-
-      <hr>
-
-      <h3>Next Event</h3>
-      <p>Tuesday, June 10, 2014 at 7pm<br>
-      Conversation with Dennis Drabelle, <em>Washington Post</em><br>
-      Hill Center at the Old Naval Hospital<br>
-      921 Pennsylvania Avenue, SE<br>
-      Washington, DC 20003<br>
-      202-549-4172<br>
-      <a href="http://hillcenterdc.org" target="_blank">HillCenterdDC.org<a></p>
     </div>
-
   </div>
-
 </div>

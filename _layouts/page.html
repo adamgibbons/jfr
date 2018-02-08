@@ -1,32 +1,40 @@
 <html>
-<head>
-  <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+  <head>
+    <meta name="google-site-verification" content="8FuI15szDoFJEbjtvnOtMrpcn16XsplD8TWmC_AykEc" />
+    <link href='//fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+    <title>John F. Ross | Author and Journalist</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script type="text/javascript" src="scripts/jquery.min.js"></script>
+    <link type="text/css" rel="stylesheet" href="./styles/main.css">
+  </head>
+  <body>
 
-  <title>Just a test</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <script type="text/javascript" src="../bower_components/jquery/dist/jquery.min.js"></script>
-  <script type="text/javascript" src="../bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    {% include header.html %}
 
-  <link type="text/css" rel="stylesheet/less" href="../styles/main.less">
-
-  <script type="text/javascript" src="../bower_components/less.js/dist/less-1.7.0.min.js"></script>
-
-</head>
-<body>
-
-  {% include header.html %}
-
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        {{content}}
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          {{content}}
+        </div>
       </div>
     </div>
-  </div>
 
-  {% include footer.html %}
+    {% include footer.html %}
 
-  <script type="text/javascript" src="{{baseurl}}/scripts/primary-navigation.js"></script>
+    <script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="../scripts/primary-navigation.js"></script>
 
-</body>
+    <!-- Google Analytics -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-50786335-1', 'johnfross.com');
+      ga('send', 'pageview');
+
+    </script>
+
+  </body>
 </html>

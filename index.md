@@ -13,16 +13,19 @@ title: "John F. Ross | Author and Historical Journalist"
           <img src="images/promise-of-grand-canyon.jpg" style="width:100%" />
 
           <div>
-            <h4>Buy the book</h4>
-            <p>
+            <h4>
+              <a href="https://www.amazon.com/Promise-Grand-Canyon-Perilous-American/dp/0525429875/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1516142856&sr=1-1">
+                Buy the book
+              </a>
+            </h4>
+
               <!-- <a href="http://www.barnesandnoble.com/w/enduring-courage-john-f-ross/1116932705?ean=9781250033772">Barnes &amp; Noble</a>
               <br /> -->
-              <a href="https://www.amazon.com/Promise-Grand-Canyon-Perilous-American/dp/0525429875/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1516142856&sr=1-1">Amazon</a>
+              <!-- <a href="https://www.amazon.com/Promise-Grand-Canyon-Perilous-American/dp/0525429875/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1516142856&sr=1-1">Amazon</a> -->
               <!-- <br />
               <a href="http://www.indiebound.org/book/9781250033772">Indiebound</a>
               <br />
               <a href="https://itunes.apple.com/us/book/enduring-courage/id782941786?mt=11">iTunes</a> -->
-            </p>
           </div>
         </div>
 
@@ -34,19 +37,17 @@ title: "John F. Ross | Author and Historical Journalist"
           <br>
 
           <p>
-            A timely, thrilling account of a man who, as an explorer, dared to lead the first succesful expedition down the Colorado through the Grand Canyon--and, as an American visionary, waged a bitterly-contested campaign for environmental sustainability in the American West.
+            A timely, thrilling account of a man who, as an explorer, dared to lead the first succesful expedition down the Colorado through the Grand Canyon &mdash; and, as an American visionary, waged a bitterly-contested campaign for environmental sustainability in the American West.
           </p>
 
           <p>
-            When John Wesley Powell became the first person to navigate the entire Colorado River, through the Grand Canyon, he completed what Lewis and Clark had begun nearly 70 years earlier--the final exploration of continental America. The son of an abolitionist preacher, a Civil War hero (who lost an arm at Shiloh), and a passionate naturalist and geologist, in 1869 Powell tackled the vast and dangerous gorge carved by the Colorado River and known today (thanks to Powell) as the Grand Canyon.
+            When John Wesley Powell became the first person to navigate the entire Colorado River, through the Grand Canyon, he completed what Lewis and Clark had begun nearly 70 years earlier &mdash; the final exploration of continental America. The son of an abolitionist preacher, a Civil War hero (who lost an arm at Shiloh), and a passionate naturalist and geologist, in 1869 Powell tackled the vast and dangerous gorge carved by the Colorado River and known today (thanks to Powell) as the Grand Canyon.
           </p>
 
 
           <p>
             With <em>The Promise of the Grand Canyon</em>, John Ross recreates Powell's expedition in all its glory and terror, but his second (unheralded) career as a scientist, bureaucrat, and land-management pioneer concerns us today. Powell was the first to ask: how should the development of the west be shaped? How much could the land support? What was the role of the government and private industry in all of this? He began a national conversation about sustainable development when most everyone else still looked upon land as an inexhaustible resource. Though he supported irrigation and dams, his prescient warnings forecast the 1930s dustbowl and the growing water scarcities of today. Practical, yet visionary, Powell didn't have all the answers, but was first to ask the right questions.
           </p>
-
-          <p><a href="./promise.html">Read more &raquo;</a></p>
         </div>
       </div>
 

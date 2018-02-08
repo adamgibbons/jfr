@@ -25,11 +25,11 @@ title: "Promise of the Grand Canyon | John F. Ross"
       </blockquote> -->
 
       <p>
-        A timely, thrilling account of a man who, as an explorer, dared to lead the first succesful expedition down the Colorado through the Grand Canyon--and, as an American visionary, waged a bitterly-contested campaign for environmental sustainability in the American West.
+        A timely, thrilling account of a man who, as an explorer, dared to lead the first succesful expedition down the Colorado through the Grand Canyon &mdash; and, as an American visionary, waged a bitterly-contested campaign for environmental sustainability in the American West.
       </p>
 
       <p>
-        When John Wesley Powell became the first person to navigate the entire Colorado River, through the Grand Canyon, he completed what Lewis and Clark had begun nearly 70 years earlier--the final exploration of continental America. The son of an abolitionist preacher, a Civil War hero (who lost an arm at Shiloh), and a passionate naturalist and geologist, in 1869 Powell tackled the vast and dangerous gorge carved by the Colorado River and known today (thanks to Powell) as the Grand Canyon.
+        When John Wesley Powell became the first person to navigate the entire Colorado River, through the Grand Canyon, he completed what Lewis and Clark had begun nearly 70 years earlier &mdash; the final exploration of continental America. The son of an abolitionist preacher, a Civil War hero (who lost an arm at Shiloh), and a passionate naturalist and geologist, in 1869 Powell tackled the vast and dangerous gorge carved by the Colorado River and known today (thanks to Powell) as the Grand Canyon.
       </p>
 
 

@@ -69,19 +69,16 @@ title: "John F. Ross | Author and Historical Journalist"
     <!-- Right rail -->
     <div class="col-md-3">
       <h3>Around the Web</h3>
-      <p><small>iTunes</small> <a href="https://itunes.apple.com/us/book/enduring-courage/id782941786?mt=11">Apple selects <em>Enduring Courage</em> as a top ten pick for non-fiction books in May.</a></p>
-      <p><small>Article</small> <a href="http://ricks.foreignpolicy.com/posts/2014/05/15/why_todays_readers_can_learn_from_a_new_book_about_wwi_hero_rickenbacker">"Why today's readers can learn from a new book about WWI hero Rickenbacker" by Thomas E. Ricks, ForeignPolicy.com</a></p>
-      <p><small>Video</small> <a href="http://www.c-span.org/video/?319417-3/panel-discussion-world-wars">John F. Ross participates in panel discussion on the World Wars at the 2014 Gaithersburg, MD Book Festival</a></p>
 
-      <hr>
+      <p><small>News</small> Tune in as John F. Ross appears on <a href="https://www.sciencefriday.com/"><em>Science Friday</em></a> (July 6), and NPR's <a href="http://www.wbur.org/onpoint"><em>On Point</em></a> (July 12)</p>
 
-      <h3>Perils of Car Racing</h3>
-      <iframe width="100%" height="210" src="//www.youtube.com/embed/haKLzn4GQn8?rel=0" frameborder="0" allowfullscreen></iframe>
+      <p><small>Article</small> <a href="https://longreads.com/2018/07/02/taming-the-great-american-desert/">"Taming the Great American Desert" by John F. Ross, Longreads</a></p>
 
-      <hr>
+      <p><small>Article</small> <a href="https://www.axios.com/newsletters/axios-pm-69388126-893a-4849-8e49-521711a6295e.html"><em>The Promise of the Grand Canyon</em> is this week's beach read. Mike Allen, Axios</a></p>
 
-      <h3>Audio Excerpt</h3>
-      <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/145338028&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>
+      <p><small>Article</small> <a href="https://www.outsideonline.com/2304721/john-wesley-powells-perilous-journey-down-colorado">"The Prophet of the Dust Bowl" by John F. Ross, Outside</a></p>
+
+      <p><small>Article</small> <a href="https://www.wsj.com/articles/the-prophet-of-thedust-bowl-1528987986">"John Wesley Powell's Perilous Journey Down the Colorado" by John F. Ross, WSJ.com</a></p>
     </div>
   </div>
 </div>

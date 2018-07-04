@@ -12,21 +12,11 @@ title: "John F. Ross | Author and Historical Journalist"
         <div class="col-md-3">
           <img src="images/promise-of-grand-canyon.jpg" style="width:100%" />
 
-          <div>
-            <h4>
-              <a href="https://www.amazon.com/Promise-Grand-Canyon-Perilous-American/dp/0525429875/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1516142856&sr=1-1">
-                Buy the book
-              </a>
-            </h4>
-
-              <!-- <a href="http://www.barnesandnoble.com/w/enduring-courage-john-f-ross/1116932705?ean=9781250033772">Barnes &amp; Noble</a>
-              <br /> -->
-              <!-- <a href="https://www.amazon.com/Promise-Grand-Canyon-Perilous-American/dp/0525429875/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1516142856&sr=1-1">Amazon</a> -->
-              <!-- <br />
-              <a href="http://www.indiebound.org/book/9781250033772">Indiebound</a>
-              <br />
-              <a href="https://itunes.apple.com/us/book/enduring-courage/id782941786?mt=11">iTunes</a> -->
-          </div>
+          <br/>
+          <br/>
+          <p>
+            <a href="https://www.amazon.com/Promise-Grand-Canyon-Perilous-American/dp/0525429875/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1516142856&sr=1-1" class="btn btn-success btn-lg btn-block">Buy the book</a>
+          </p>
         </div>
 
         <div class="col-md-9">
@@ -47,6 +37,10 @@ title: "John F. Ross | Author and Historical Journalist"
 
           <p>
             With <em>The Promise of the Grand Canyon</em>, John Ross recreates Powell's expedition in all its glory and terror, but his second (unheralded) career as a scientist, bureaucrat, and land-management pioneer concerns us today. Powell was the first to ask: how should the development of the west be shaped? How much could the land support? What was the role of the government and private industry in all of this? He began a national conversation about sustainable development when most everyone else still looked upon land as an inexhaustible resource. Though he supported irrigation and dams, his prescient warnings forecast the 1930s dustbowl and the growing water scarcities of today. Practical, yet visionary, Powell didn't have all the answers, but was first to ask the right questions.
+          </p>
+
+          <p>
+            <a href="/promise">Read more &raquo;</a>
           </p>
         </div>
       </div>

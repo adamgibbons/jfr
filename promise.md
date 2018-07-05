@@ -83,6 +83,11 @@ title: "Promise of the Grand Canyon | John F. Ross"
         <p>John Ross offers a stunning re-creation of John Wesley Powell's heroic journey down the Colorado River. It's an epic adventure that forever transformed the American West.</p>
         <footer>Douglas Brinkley, author of <em>The Wilderness Warrior</em></footer>
       </blockquote>
+
+      <blockquote class="blockquote-reverse">
+        <p>This biography is, to borrow one of Ross's descriptions of Powell, "clear, authoritative, and dramatic." Ross covers Powell's upbringing in a staunch abolitionist home and recounts the Grand Canyon exploration with cinematic flair. He then dives into Powell's subsequent career as head of the U.S. Geological Survey, during which Powell warned about the fragility of the arid West. Ross's portrait of this complicated figure reveals how "generations of dueling developers and environmentalists have claimed [Powell] as their guiding star."</p>
+        <footer>Jason Mark, Sierra</footer>
+      </blockquote>
     </div>
 
     <div id="articles" class="tab-pane">

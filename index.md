@@ -64,15 +64,19 @@ title: "John F. Ross | Author and Historical Journalist"
     <div class="col-md-3">
       <h3>Around the Web</h3>
 
-      <p><small>News</small> Tune in as John F. Ross appears on <a href="https://www.sciencefriday.com/"><em>Science Friday</em></a> (July 6), and NPR's <a href="http://www.wbur.org/onpoint"><em>On Point</em></a> (July 12)</p>
+      <p><small class="tag">News</small> Tune in as John F. Ross appears on <a href="https://www.sciencefriday.com/"><em>Science Friday</em></a> (July 6), and NPR's <a href="http://www.wbur.org/onpoint"><em>On Point</em></a> (July 12)</p>
 
-      <p><small>Article</small> <a href="https://longreads.com/2018/07/02/taming-the-great-american-desert/">"Taming the Great American Desert" by John F. Ross, Longreads</a></p>
+      <p><small class="tag">Article</small> <a href="https://longreads.com/2018/07/02/taming-the-great-american-desert/">"Taming the Great American Desert" by John F. Ross, Longreads</a></p>
 
-      <p><small>Article</small> <a href="https://www.axios.com/newsletters/axios-pm-69388126-893a-4849-8e49-521711a6295e.html"><em>The Promise of the Grand Canyon</em> is this week's beach read. Mike Allen, Axios</a></p>
+      <p><small class="tag">Article</small> <a href="https://www.axios.com/newsletters/axios-pm-69388126-893a-4849-8e49-521711a6295e.html"><em>The Promise of the Grand Canyon</em> is this week's beach read. Mike Allen, Axios</a></p>
 
-      <p><small>Article</small> <a href="https://www.outsideonline.com/2304721/john-wesley-powells-perilous-journey-down-colorado">"The Prophet of the Dust Bowl" by John F. Ross, Outside</a></p>
+      <p><small class="tag">Article</small> <a href="https://www.outsideonline.com/2304721/john-wesley-powells-perilous-journey-down-colorado">"John Wesley Powell's Perilous Journey Down the Colorado" by John F. Ross, Outside</a></p>
 
-      <p><small>Article</small> <a href="https://www.wsj.com/articles/the-prophet-of-thedust-bowl-1528987986">"John Wesley Powell's Perilous Journey Down the Colorado" by John F. Ross, WSJ.com</a></p>
+      <p><small class="tag">Essay</small> <a href="https://www.wsj.com/articles/the-prophet-of-thedust-bowl-1528987986">"The Prophet of the Dust Bowl" by John F. Ross, WSJ.com</a></p>
+
+      <p><small class="tag">Article</small> <a href="https://www.smithsonianmag.com/smithsonian-institution/visionary-john-wesley-powell-had-plan-developing-west-nobody-listened-180969182/">"The Visionary John Wesley Powell Had a Plan for Developing the West, But Nobody Listened" by John F. Ross, Smithsonian</a></p>
+
+      <p><small class="tag">Review</small> <a href="https://www.sierraclub.org/sierra/2018-4-july-august/books/john-wesley-powell-and-great-unknown">"John Wesley Powell and the 'Great Unknown'" by Jason Mark, Sierra</a></p>
     </div>
   </div>
 </div>

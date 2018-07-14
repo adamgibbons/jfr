@@ -28,6 +28,7 @@
 }
 
 .right-rail > p {
+    font-size: .9em;
     padding: 1em;
     margin: 0;
     border-left: 1px dotted #ccc;

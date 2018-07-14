@@ -70,42 +70,42 @@ title: "John F. Ross | Author and Historical Journalist"
       <p>
           <small class="tag">Interview</small>
           <a href="https://www.sciencefriday.com/segments/pioneering-western-water-management-strategies/">
-              Pioneering Western Water Management Strategies, Science Friday
+              Pioneering Western Water Management Strategie • Science Friday
           </a>
       </p>
 
       <p>
           <small class="tag">Interview</small>
           <a href="http://www.wbur.org/onpoint/2018/07/12/grand-canyon-john-ross">
-              The Promise And Mystery Of The Grand Canyon, Linda Wertheimer, On Point
+              The Promise And Mystery Of The Grand Canyon • Linda Wertheimer • On Point
           </a>
       </p>
 
       <p>
           <small class="tag">Review</small>
           <a href="https://www.nature.com/articles/d41586-018-05652-6">
-              A guidebook to cancer, slavery to stupid machines, and the buzz about bees: Books in brief. Barbara Kiser, Nature
+              Books in brief • Barbara Kiser • Nature
           </a>
       </p>
 
       <p>
           <small class="tag">Review</small>
           <a href="https://www.aspendailynews.com/arts_and_entertainment/book-review-the-promise-of-the-grand-canyon-by-john/article_00ec2ea2-856e-11e8-8c34-ef13a4f3820d.html">
-              Book Review: 'The Promise of the Grand Canyon' by John F. Ross. Mark Billingsley, Aspen Daily News
+              Mark Billingsley • Aspen Daily News
           </a>
       </p>
 
-      <p><small class="tag">Article</small> <a href="https://longreads.com/2018/07/02/taming-the-great-american-desert/">"Taming the Great American Desert" by John F. Ross, Longreads</a></p>
+      <p><small class="tag">Article</small> <a href="https://longreads.com/2018/07/02/taming-the-great-american-desert/">Taming the Great American Desert • John F. Ross • Longreads</a></p>
 
-      <p><small class="tag">Article</small> <a href="https://www.axios.com/newsletters/axios-pm-69388126-893a-4849-8e49-521711a6295e.html"><em>The Promise of the Grand Canyon</em> is this week's beach read. Mike Allen, Axios</a></p>
+      <p><small class="tag">Article</small> <a href="https://www.axios.com/newsletters/axios-pm-69388126-893a-4849-8e49-521711a6295e.html"><em>The Promise of the Grand Canyon</em> is this week's beach read  • Mike Allen • Axios</a></p>
 
-      <p><small class="tag">Article</small> <a href="https://www.outsideonline.com/2304721/john-wesley-powells-perilous-journey-down-colorado">"John Wesley Powell's Perilous Journey Down the Colorado" by John F. Ross, Outside</a></p>
+      <p><small class="tag">Article</small> <a href="https://www.outsideonline.com/2304721/john-wesley-powells-perilous-journey-down-colorado">John Wesley Powell's Perilous Journey Down the Colorado • John F. Ross • Outside</a></p>
 
-      <p><small class="tag">Essay</small> <a href="https://www.wsj.com/articles/the-prophet-of-thedust-bowl-1528987986">"The Prophet of the Dust Bowl" by John F. Ross, WSJ.com</a></p>
+      <p><small class="tag">Essay</small> <a href="https://www.wsj.com/articles/the-prophet-of-thedust-bowl-1528987986">The Prophet of the Dust Bowl • John F. Ross • WSJ.com</a></p>
 
-      <p><small class="tag">Article</small> <a href="https://www.smithsonianmag.com/smithsonian-institution/visionary-john-wesley-powell-had-plan-developing-west-nobody-listened-180969182/">"The Visionary John Wesley Powell Had a Plan for Developing the West, But Nobody Listened" by John F. Ross, Smithsonian</a></p>
+      <p><small class="tag">Article</small> <a href="https://www.smithsonianmag.com/smithsonian-institution/visionary-john-wesley-powell-had-plan-developing-west-nobody-listened-180969182/">The Visionary John Wesley Powell Had a Plan for Developing the West, But Nobody Listened • John F. Ross • Smithsonian</a></p>
 
-      <p><small class="tag">Review</small> <a href="https://www.sierraclub.org/sierra/2018-4-july-august/books/john-wesley-powell-and-great-unknown">"John Wesley Powell and the 'Great Unknown'" by Jason Mark, Sierra</a></p>
+      <p><small class="tag">Review</small> <a href="https://www.sierraclub.org/sierra/2018-4-july-august/books/john-wesley-powell-and-great-unknown">John Wesley Powell and the "Great Unknown"  • Jason Mark • Sierra</a></p>
     </div>
   </div>
 </div>

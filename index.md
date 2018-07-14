@@ -61,10 +61,39 @@ title: "John F. Ross | Author and Historical Journalist"
     </div>
 
     <!-- Right rail -->
-    <div class="col-md-3">
-      <h3>Around the Web</h3>
+    <div class="col-md-3 right-rail">
+      <p>
+        <small class="tag">Talk</small>
+        <span>Smithsonian’s Natural History Museum, Baird Auditorium. September 18, at 6:45 pm</span>
+      </p>
 
-      <p><small class="tag">News</small> Tune in as John F. Ross appears on <a href="https://www.sciencefriday.com/"><em>Science Friday</em></a> (July 6), and NPR's <a href="http://www.wbur.org/onpoint"><em>On Point</em></a> (July 12)</p>
+      <p>
+          <small class="tag">Interview</small>
+          <a href="https://www.sciencefriday.com/segments/pioneering-western-water-management-strategies/">
+              Pioneering Western Water Management Strategies, Science Friday
+          </a>
+      </p>
+
+      <p>
+          <small class="tag">Interview</small>
+          <a href="http://www.wbur.org/onpoint/2018/07/12/grand-canyon-john-ross">
+              The Promise And Mystery Of The Grand Canyon, Linda Wertheimer, On Point
+          </a>
+      </p>
+
+      <p>
+          <small class="tag">Review</small>
+          <a href="https://www.nature.com/articles/d41586-018-05652-6">
+              A guidebook to cancer, slavery to stupid machines, and the buzz about bees: Books in brief. Barbara Kiser, Nature
+          </a>
+      </p>
+
+      <p>
+          <small class="tag">Review</small>
+          <a href="https://www.aspendailynews.com/arts_and_entertainment/book-review-the-promise-of-the-grand-canyon-by-john/article_00ec2ea2-856e-11e8-8c34-ef13a4f3820d.html">
+              Book Review: 'The Promise of the Grand Canyon' by John F. Ross. Mark Billingsley, Aspen Daily News
+          </a>
+      </p>
 
       <p><small class="tag">Article</small> <a href="https://longreads.com/2018/07/02/taming-the-great-american-desert/">"Taming the Great American Desert" by John F. Ross, Longreads</a></p>
 

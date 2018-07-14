@@ -26,3 +26,13 @@
 .navbar-static-top {
     border: none;
 }
+
+.right-rail > p {
+    padding: 1em;
+    margin: 0;
+    border-left: 1px dotted #ccc;
+}
+
+.right-rail > p:nth-child(odd) {
+    background-color: #eee;
+}

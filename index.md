@@ -62,44 +62,67 @@ title: "John F. Ross | Author and Historical Journalist"
 
     <!-- Right rail -->
     <div class="col-md-3 right-rail">
+
+      <p>
+        <small class="tag">Article</small>
+        <a href="https://www.theatlantic.com/ideas/archive/2018/09/how-the-west-was-lost/569365/">
+          How the West Was Lost • John F. Ross • The Atlantic
+        </a>
+      </p>
+
+      <p>
+        <small class="tag">Review</small>
+        <a href="https://www.washingtonpost.com/outlook/the-big-personality-and-big-contributions-of-john-wesley-powell/2018/08/09/673c8f5c-8475-11e8-8553-a3ce89036c78_story.html?noredirect=on&utm_term=.1e46b0aff722">
+          The big personality and big contributions of John Wesley Powell • Debra Bruno • The Washington Post
+        </a>
+      </p>
+
       <p>
         <small class="tag">Talk</small>
-        <span>Smithsonian’s Natural History Museum, Baird Auditorium. September 18, at 6:45 pm</span>
+        <a href="https://www.c-span.org/video/?447922-1/the-promise-grand-canyon">
+          John F. Ross • Politics and Prose
+        </a>
       </p>
 
       <p>
-          <small class="tag">Interview</small>
-          <a href="https://www.sciencefriday.com/segments/pioneering-western-water-management-strategies/">
+        <small class="tag">Interview</small>
+        <a href="https://www.sciencefriday.com/segments/pioneering-western-water-management-strategies/">
               Pioneering Western Water Management Strategie • Science Friday
-          </a>
+        </a>
       </p>
 
       <p>
-          <small class="tag">Interview</small>
-          <a href="http://www.wbur.org/onpoint/2018/07/12/grand-canyon-john-ross">
+        <small class="tag">Interview</small>
+        <a href="http://www.wbur.org/onpoint/2018/07/12/grand-canyon-john-ross">
               The Promise And Mystery Of The Grand Canyon • Linda Wertheimer • On Point
-          </a>
+        </a>
       </p>
 
       <p>
-          <small class="tag">Review</small>
-          <a href="https://www.nature.com/articles/d41586-018-05652-6">
+        <small class="tag">Review</small>
+        <a href="https://www.nature.com/articles/d41586-018-05652-6">
               Books in brief • Barbara Kiser • Nature
-          </a>
+        </a>
       </p>
 
       <p>
-          <small class="tag">Review</small>
-          <a href="https://www.aspendailynews.com/arts_and_entertainment/book-review-the-promise-of-the-grand-canyon-by-john/article_00ec2ea2-856e-11e8-8c34-ef13a4f3820d.html">
+        <small class="tag">Review</small>
+        <a href="https://www.aspendailynews.com/arts_and_entertainment/book-review-the-promise-of-the-grand-canyon-by-john/article_00ec2ea2-856e-11e8-8c34-ef13a4f3820d.html">
               Mark Billingsley • Aspen Daily News
-          </a>
+        </a>
       </p>
 
-      <p><small class="tag">Article</small> <a href="https://longreads.com/2018/07/02/taming-the-great-american-desert/">Taming the Great American Desert • John F. Ross • Longreads</a></p>
+      <p>
+        <small class="tag">Article</small> <a href="https://longreads.com/2018/07/02/taming-the-great-american-desert/">Taming the Great American Desert • John F. Ross • Longreads</a>
+      </p>
 
-      <p><small class="tag">Article</small> <a href="https://www.axios.com/newsletters/axios-pm-69388126-893a-4849-8e49-521711a6295e.html"><em>The Promise of the Grand Canyon</em> is this week's beach read  • Mike Allen • Axios</a></p>
+      <p>
+        <small class="tag">Article</small> <a href="https://www.axios.com/newsletters/axios-pm-69388126-893a-4849-8e49-521711a6295e.html"><em>The Promise of the Grand Canyon</em> is this week's beach read  • Mike Allen • Axios</a>
+      </p>
 
-      <p><small class="tag">Article</small> <a href="https://www.outsideonline.com/2304721/john-wesley-powells-perilous-journey-down-colorado">John Wesley Powell's Perilous Journey Down the Colorado • John F. Ross • Outside</a></p>
+      <p>
+        <small class="tag">Article</small> <a href="https://www.outsideonline.com/2304721/john-wesley-powells-perilous-journey-down-colorado">John Wesley Powell's Perilous Journey Down the Colorado • John F. Ross • Outside</a>
+      </p>
 
       <p><small class="tag">Essay</small> <a href="https://www.wsj.com/articles/the-prophet-of-thedust-bowl-1528987986">The Prophet of the Dust Bowl • John F. Ross • WSJ.com</a></p>
 

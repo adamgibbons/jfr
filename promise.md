@@ -45,6 +45,13 @@ title: "Promise of the Grand Canyon | John F. Ross"
 
       <br>
 
+      <blockquote class="blockquote-reverse">
+        <p>If any man is the perfect subject for a new biography, it has to be John Wesley Powell. The Civil War hero who lost most of his right arm at the Battle of Shiloh and went on to be the first person to lead a successful boat expedition through the roaring Colorado River in the Grand Canyon makes for a great story.</p>
+        <footer>The Washington Post</footer>
+      </blockquote>
+
+      <br>
+
       <blockquote>
         <p>Ross's new biography describes Powell's talents in ethnography, geology, surveying, and mapping, along with his political acuity that helped shape America's federal science and Western land stewardship... In masterly use of primary and secondary sources, Ross makes Powell's wrangling with senators as fascinating as his river expeditions... If you've ever used a topographic map, thank Powell. His legacy deserves more attention, and Ross's biography stands to correct this.</p>
         <footer>Library Journal (starred review)</footer>
@@ -94,6 +101,18 @@ title: "Promise of the Grand Canyon | John F. Ross"
           <h2>Articles</h2>
 
           <br>
+
+          <h4>
+            <a href="https://www.theatlantic.com/ideas/archive/2018/09/how-the-west-was-lost/569365/">
+              How the West Was Lost
+            </a>
+          </h4>
+          <h5>
+            In America’s first climate war, John Wesley Powell tried to prevent the overdevelopment that led to environmental devastation.
+          </h5>
+          <p>By John F. Ross, <em>The Atlantic</em></p>
+
+          <hr>
 
           <h4><a href="https://www.smithsonianmag.com/smithsonian-institution/visionary-john-wesley-powell-had-plan-developing-west-nobody-listened-180969182/">The Visionary John Wesley Powell Had a Plan for Developing the West, But Nobody Listened</a></h4>
           <h5>Powell’s foresight might have prevented the 1930s dust bowl and perhaps, today’s water scarcities</h5>
